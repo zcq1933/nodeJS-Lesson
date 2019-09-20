@@ -1,0 +1,16 @@
+ fs.readFileSync() :读取文件内容
+ 得到的是buffer数据
+
+ http请求和响应过程的数据传输
+
+ process.stdin 输入流接收的数据
+
+ npm install 模块名 --save-dev
+ 就可以将安装模块的信息存入到package.json文件中
+
+ nrm 用来管理第三方模块的下载镜像
+ 安装nrm npm install nrm -g
+ nrm ls 查看所有镜像
+ nrm use 镜像名字 切换镜像
+
+ 原来的速度很慢时，来切换
